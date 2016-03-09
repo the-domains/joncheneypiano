@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JonCheneyPiano]]></title>
         <description><![CDATA[JonCheneyPiano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joncheneypiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 20:55:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 21:17:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joncheneypiano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece19f97-497e-428c-b8cc-8f3abcfc2b97.jpg">]]></description>
-            <link>undefinedits-finally-time-to-buckle-down-and-release-some-amazing-ne/index.html</link>
+            <title><![CDATA[Jon Cheney]]></title>
+            <description><![CDATA[<article><h1>Jon Cheney</h1><p>It's finally time to buckle down and release some amazing new piano books and CDs!  I have released 5 albums up to this point, and there are many more coming.  The request I receive the most is for a piano book, and it is finally on its way.  More details soon!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37bacdc15661351be2cd471a9aefaf5fa53f495.jpg"></article>]]></description>
+            <link>https://thegrid.ai/joncheneypiano/its-finally-time-to-buckle-down-and-release-some-amazing-ne/index.html</link>
             <guid isPermaLink="false">3b68d956-3ab5-4168-b912-a000bb588710</guid>
-            <pubDate>Wed, 09 Mar 2016 20:54:46 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 21:00:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
